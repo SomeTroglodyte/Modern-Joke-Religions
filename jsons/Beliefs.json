@@ -13,5 +13,20 @@
         "name": "Transcendent Hexagons",
         "type": "Follower",
         "uniques": ["[+1 Faith, +1 Food] from every [Oasis]"]
+    },
+    {
+        "name": "Mess hall karaoke",
+        "type": "Follower",
+        "uniques": ["[-1 Culture, +3 Food] from every [Barracks]"]
+    },
+    {
+        "name": "Planned obsolescence",
+        "type": "Follower",
+        "uniques": ["Gold cost of upgrading [All] units reduced by [50]%", "-[-25]% [All] unit maintenance costs"]
+    },
+    {
+        "name": "March till you drop",
+        "type": "Follower",
+        "uniques": ["[-1 Food] from every [Grassland]", "+[15%] Strength vs [All]"]
     }
 ]
