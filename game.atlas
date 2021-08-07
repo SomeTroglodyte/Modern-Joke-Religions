@@ -1,0 +1,27 @@
+
+game.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ReligionIcons/Origoaperta-ism
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Trekkie-ism
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Unciv-ism
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

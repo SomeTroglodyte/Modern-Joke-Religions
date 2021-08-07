@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Where no man has gone before",
+        "type": "Follower",
+        "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]"]
+    },
+    {
+        "name": "Freedom to Share",
+        "type": "Follower",
+        "uniques": ["[+1 Science, +1 Culture, +1 Faith, +1 Happiness, -2 Gold] from each Trade Route"]
+    },
+    {
+        "name": "Transcendent Hexagons",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Food] from every [Oasis]"]
+    }
+]
