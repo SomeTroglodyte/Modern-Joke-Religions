@@ -1,5 +1,26 @@
 [
     {
+        "name": "God of the Depths",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Faith, +1 Production, -1 Gold] from every [Ocean]"]
+    },
+    {
+        "name": "The Ancient Ones",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] <when below [0] Happiness>"]
+    },
+    {
+        "name": "Mirthful Worship",
+        "type": "Pantheon",
+        "uniques": ["[+1 Happiness] from every [Shrine] <when not at war>"]
+    },
+    {
+        "name": "Lord of the Lies",
+        "type": "Pantheon",
+        "uniques": ["[-2 Science, +2 Faith] from every [Library]"]
+    },
+
+    {
         "name": "Where no man has gone before",
         "type": "Follower",
         "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]"]
@@ -20,13 +41,32 @@
         "uniques": ["[-1 Culture, +3 Food] from every [Barracks]"]
     },
     {
-        "name": "Planned obsolescence",
-        "type": "Follower",
-        "uniques": ["Gold cost of upgrading [All] units reduced by [50]%", "-[-25]% [All] unit maintenance costs"]
-    },
-    {
         "name": "March till you drop",
         "type": "Follower",
         "uniques": ["[-1 Food] from every [Grassland]", "+[15%] Strength vs [All]"]
+    },
+
+
+    {
+        "name": "False Friends",
+        "type": "Founder",
+        "uniques": ["[+2 Science, -1 Culture] for every [4] global followers [in foreign cities]"]
+    },
+    {
+        "name": "Inquisition",
+        "type": "Founder",
+        "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] for every [2] global followers [in annexed cities]",
+                    "May buy [Inquisitor] units with [Gold] [in annexed cities]"]
+    },
+
+    {
+        "name": "Forced Labour",
+        "type": "Enhancer",
+        "uniques": ["May buy [Worker] units for [100] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Planned obsolescence",
+        "type": "Enhancer",
+        "uniques": ["[-75]% Gold cost of upgrading <for [All] units>", "[+25]% maintenance costs <for [All] units>"]
     }
 ]
