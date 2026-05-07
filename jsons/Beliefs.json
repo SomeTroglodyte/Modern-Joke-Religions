@@ -43,22 +43,19 @@
     {
         "name": "March till you drop",
         "type": "Follower",
-        "uniques": ["[-1 Food] from every [Grassland]", "+[15%] Strength vs [All]"]
+        "uniques": ["[-1 Food] from every [Grassland]", "[+15]% Strength"]
     },
-
-
     {
         "name": "False Friends",
         "type": "Founder",
-        "uniques": ["[+2 Science, -1 Culture] for every [4] global followers [in foreign cities]"]
+        "uniques": ["[+2 Science, -1 Culture] from every [4] global followers [in foreign cities]"]
     },
     {
         "name": "Inquisition",
         "type": "Founder",
-        "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] for every [2] global followers [in annexed cities]",
+        "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] from every [2] global followers [in annexed cities]",
                     "May buy [Inquisitor] units with [Gold] [in annexed cities]"]
     },
-
     {
         "name": "Forced Labour",
         "type": "Enhancer",
