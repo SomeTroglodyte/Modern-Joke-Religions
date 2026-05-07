@@ -43,7 +43,11 @@
     {
         "name": "March till you drop",
         "type": "Follower",
-        "uniques": ["[-1 Food] from every [Grassland]", "[+15]% Strength"]
+        "uniques": [
+            "[-1 Food] from every [Grassland]",
+            "All newly-trained [{Land} {Melee}] units [in cities following this religion] receive the [Shock I] promotion",
+            "All newly-trained [{Land} {Ranged}] units [in cities following this religion] receive the [Accuracy I] promotion"
+        ]
     },
     {
         "name": "False Friends",
