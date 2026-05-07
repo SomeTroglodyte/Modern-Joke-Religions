@@ -7,7 +7,7 @@
     {
         "name": "The Ancient Ones",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] when below [0] Happiness"]
+        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] <when below [0] [Happiness]>"]
     },
     {
         "name": "Mirthful Worship",
